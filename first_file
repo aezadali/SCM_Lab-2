@@ -1,6 +1,10 @@
 Console.Writeline("Aezad Ali");
 Console.Writeline("24-ST-085");
+<< first_semester
+Console.Writeline("CP,EHS,ITS,PHY,MATH");
+=======
 •SCM
 • Statistics 
 • Oop
 •TQ
+>> main
